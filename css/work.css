@@ -1,0 +1,15 @@
+.parent{
+    background-color: brown;
+width: 500px;
+padding: 10px;
+height: 1000px;
+display: grid;
+grid-template-columns: repeat(3,auto);
+justify-content: space-between;
+align-content: space-between;
+gap: 10px;
+}
+.chidl{
+background-color: bisque;
+padding: 10px;
+}
