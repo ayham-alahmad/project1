@@ -234,6 +234,9 @@ header .container nav ul li a:hover {
     .hero .container {
         flex-direction: column-reverse;
     }
+     .hero-img img{
+        width: 100%;
+    }
 }
 
 
